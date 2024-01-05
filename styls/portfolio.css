@@ -146,7 +146,7 @@ main {
     margin: 130px 0;
 }
 
-.about-title{
+.about-title {
     padding: 20px 0;
 }
 
@@ -173,7 +173,7 @@ main {
 }
 
 /* what I do start */
-.what-i-do{
+.what-i-do {
     margin-bottom: 100px;
 }
 
@@ -207,4 +207,16 @@ main {
     color: #757575;
     font-size: 16px;
     line-height: 28px;
+}
+
+/* resume part start */
+.resume-column-title {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.resume-contailer{
+    display: flex;
+    justify-content: space-between;
 }
